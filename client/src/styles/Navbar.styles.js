@@ -22,7 +22,7 @@ export const Left = styled.div`
 export const Language = styled.span`
   font-size: 14px;
   cursor: pointer;
-  
+
 `;
 
 export const SearchContainer = styled.div`
